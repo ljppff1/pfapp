@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">輝達鋁窗</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="na1">關於我們</string>
+        <string name="na2">公司認證</string>
+        <string name="na9">專業培訓</string>
+        <string name="na3">公司團隊</string>
+            <string name="na4">服務承諾</string>
+            <string name="na5">客戶資料</string>
+                <string name="na6">產品介紹</string>
+                <string name="na7">工程項目</string>
+                <string name="na8">聯絡我們</string>
+                <string name="na10">免費檢查</string>
+                <string name="theme">輝達鋁窗</string>
+                <string name="people">聯絡人:</string>
+                <string name="tele">電  話:</string>
+                <string name="push">提交查詢</string>
+                <string name="content">查詢內容:</string>
+                <string name="address">地  址:</string>
+                                <string name="status">現狀相:</string>
+                                <string name="input">提交查詢</string>
+                                    <string name="only_choose_num">超出可選圖片張數</string>
+    <string name="finish">完成</string>
+    <string name="invalidSD">sdcard無效或沒有插入！</string>
+    <string name="photo">選擇相冊</string>
+    <string name="album">相冊</string>
+    <string name="preview">預覽</string>
+    <string name="unfinished">完成</string> 
+    <string name="camera_cancel">取消</string>
+    <string name="no_photo">相冊沒有圖片</string>
+                     <string name="toast1">请输入聯絡人</string>
+                     <string name="toast2">请输入电话号码</string>
+                                          <string name="toast3">请输入地址</string>
+                                          <string name="toast4">请输入查詢內容</string>
+                                          
+                
+</resources>
